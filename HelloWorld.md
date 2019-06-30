@@ -1,1 +1,2 @@
-## Markdown file  This is my project 
+## This is a markdown file 
+
